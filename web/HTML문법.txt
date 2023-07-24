@@ -1,0 +1,18 @@
+<strong> 강조
+<h1> 제목
+<br> 줄 바꿈
+<a> 링크
+<p> 단락
+<li> list
+<ul> unorderd list
+<ol> orderd list
+<title> 웹 제목
+<img src=> 이미지 넣기 width=이미지 크기
+
+<meta charset="utf-8"> 언어코드 설정
+<!doctype html>
+<html>
+<head> 순서
+<a>
+<a href="">링크 걸기 target=새 창에서 열기 title=소개
+<iframe> 영상 삽입
